@@ -1,7 +1,3 @@
-Here’s a professional, polished **README.md** draft for your project **Brogram (Workout Tracker)**.
-
----
-
 # 🏋️ Brogram – Workout Tracker
 
 Brogram is a modern and minimalist workout tracking app designed to help you log, track, and improve your fitness journey. Whether you’re lifting weights, running, or doing bodyweight workouts, Brogram makes it easy to monitor progress and stay consistent.
